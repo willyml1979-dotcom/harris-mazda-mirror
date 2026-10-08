@@ -1,6 +1,6 @@
 {
   "dealership": "Harris Mazda",
-  "generated_at": "2026-09-26T10:09:35",
+  "generated_at": "2026-10-08T14:37:54",
   "vehicle_count": 152,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "3MVDMBDLXTM138201",
       "stock": "B26-68",
       "color": "Grey",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/8a25cdcc3c79.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/69775135/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/69775135/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,14 +20,17 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GT AWD / LEATHER / ROOF / HEATED SEATS",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 GT w/Turbo AWD / LEATHER / NAVIGATION!!",
       "vin": "3MVDMBAYXTM147965",
       "stock": "B26-79",
       "color": "White",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/2b4491afd3a3.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/69963307/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/69963307/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -36,14 +40,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GT w/Turbo AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 GT w/Turbo AWD / LEATHER / NAVIGATION!!",
       "vin": "3MVDMBAY5TM205352",
       "stock": "B26-144",
       "color": "Black",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/ea6577d2fc4e.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/70321492/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/70321492/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -53,14 +60,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GT w/Turbo AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 GT w/Turbo AWD / LEATHER / NAVIGATION!!",
       "vin": "3MVDMBAY7TM206762",
       "stock": "B26-153",
       "color": "Black",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/4770a7aaad64.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/70431976/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/70431976/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -70,14 +80,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GT w/Turbo AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "3MVDMBCL9TM200608",
       "stock": "B26-129",
       "color": "Red",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/b84a86f570fb.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/70455771/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/70455771/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -87,14 +100,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 GT AWD / LEATHER / NAVIGATION!!",
       "vin": "3MVDMBDL1TM207390",
       "stock": "B26-158",
       "color": "Grey",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/f902721036ec.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/70455774/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/70455774/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -104,14 +120,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GT AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 GT w/Turbo AWD / LEATHER / NAVIGATION!!",
       "vin": "3MVDMBAY8TM207399",
       "stock": "B26-157",
       "color": "White",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/85b7b327e501.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/70455778/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/70455778/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -121,14 +140,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GT w/Turbo AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 GT AWD / LEATHER / NAVIGATION!!",
       "vin": "3MVDMBDL3TM212879",
       "stock": "B26-199",
       "color": "White",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/4aed686a8a08.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/70696688/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/70696688/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -138,14 +160,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GT AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 GS KURO AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "3MVDMBCL7TM213485",
       "stock": "B26-194",
       "color": "Silver",
+      "trim": "GS KURO",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/32613f5737df.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/70704004/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/70704004/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -155,14 +180,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GS KURO AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "3MVDMBCL1TM214843",
       "stock": "B26-200",
       "color": "Red",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/cb7b9ae9b8fd.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/70704400/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/70704400/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -172,14 +200,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 GT/ LEATHER / SUNROOF!!",
       "vin": "3MVDMBDL3TM225308",
       "stock": "B26-278",
       "color": "White",
+      "trim": "GT/ LEATHER",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/504e23add052.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/71176042/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/71176042/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -189,14 +220,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GT/ LEATHER / SUNROOF!!",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 GT AWD / HEATED SEATS / SUNROOF!!",
       "vin": "3MVDMBDL3TM225891",
       "stock": "B26-279",
       "color": "Grey",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/84250b3f10a1.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/71176043/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/71176043/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -206,14 +240,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GT AWD / HEATED SEATS / SUNROOF!!",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 GX AWD / HEATED SEATS / BLUETOOTH!!",
       "vin": "3MVDMBBL8TM226148",
       "stock": "B26-284",
       "color": "Blue",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/9fb5fcb428bb.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/71229276/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/71229276/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -223,14 +260,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GX AWD / HEATED SEATS / BLUETOOTH!!",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 GS / AWD / HEATED SEATS / BLUETOOTH!!",
       "vin": "3MVDMBCL3TM226847",
       "stock": "B26-285",
       "color": "Red",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/bfd124f176be.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/71244736/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/71244736/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -240,14 +280,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GS / AWD / HEATED SEATS / BLUETOOTH!!",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-30 GT AWD / NAVIGATION / SUNROOF!!",
       "vin": "3MVDMBDL4TM232221",
       "stock": "B26-304",
       "color": "Blue",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/08be189b23fe.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/71396836/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-30/nanaimo/bc/71396836/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -257,14 +300,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-30 GT AWD / NAVIGATION / SUNROOF!!",
-      "condition": "new"
+      "model": "CX-30",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMAHA1T0100927",
       "stock": "B26-46",
       "color": "Red",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/e39cb55b64fd.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/69726879/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/69726879/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -274,14 +320,17 @@
       "odometer_km": 27,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GT PR AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KMDHA6T0117580",
       "stock": "B26-104",
       "color": "Red",
+      "trim": "GT PR",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/2df5e8e38c9e.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/69857054/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/69857054/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -291,14 +340,17 @@
       "odometer_km": 44,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GT PR AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / LEATHER / BACK UP CAMERA!!",
       "vin": "JM3KMBHA9T0117951",
       "stock": "B26-105",
       "color": "Red",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/8ddb61d3e417.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/69857057/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/69857057/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -308,14 +360,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / LEATHER / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHA2T0123896",
       "stock": "B26-95",
       "color": "Blue",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/0fa6fb14f079.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/69883929/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/69883929/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -325,14 +380,17 @@
       "odometer_km": 28,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMAHA7T0119661",
       "stock": "B26-92",
       "color": "Grey",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/b49073cf6b76.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/69896047/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/69896047/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -342,14 +400,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMAHAXT0126443",
       "stock": "B26-108",
       "color": "White",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/59f5ebdbd2fc.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/69896048/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/69896048/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -359,14 +420,17 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMAHA4T0131220",
       "stock": "B26-116",
       "color": "Red",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/4c839d4b09ee.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/69939491/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/69939491/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -376,14 +440,17 @@
       "odometer_km": 39,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHAXT0128201",
       "stock": "B26-117",
       "color": "Red",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/6a918d50b90f.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/69948840/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/69948840/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -393,14 +460,17 @@
       "odometer_km": 29,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHA0T0124836",
       "stock": "B26-111",
       "color": "Grey",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/9c23133e2fec.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/69963305/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/69963305/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -410,14 +480,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMAHAXT0130105",
       "stock": "B26-121",
       "color": "Red",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/20d7d081d143.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/69976983/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/69976983/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -427,14 +500,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHA4T0132941",
       "stock": "B26-125",
       "color": "Grey",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/261041a4a191.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70009213/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70009213/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -444,14 +520,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHA7T0133095",
       "stock": "B26-126",
       "color": "Grey",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/ac9ff643f7c4.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70009215/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70009215/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -461,14 +540,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMAHA2T0143382",
       "stock": "B26-143",
       "color": "White",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/23f4ddbe6b45.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70157090/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70157090/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -478,14 +560,17 @@
       "odometer_km": 28,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHA3T0148225",
       "stock": "B26-151",
       "color": "Blue",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/7e5b74063e2d.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70211531/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70211531/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -495,14 +580,17 @@
       "odometer_km": 27,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GT AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KMCHA1T0145104",
       "stock": "B26-152",
       "color": "Blue",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/6d916045169d.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70211532/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70211532/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -512,14 +600,17 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GT AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMAHA5T0145806",
       "stock": "B26-150",
       "color": "Red",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/4b252c9ca019.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70213015/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70213015/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -529,14 +620,17 @@
       "odometer_km": 28,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHA7T0155646",
       "stock": "B26-166",
       "color": "Grey",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/5bf9c42af936.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70306587/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70306587/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -546,14 +640,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHA8T0155624",
       "stock": "B26-167",
       "color": "Grey",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/db0adf9fee1c.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70306588/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70306588/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -563,14 +660,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMAHA5T0151587",
       "stock": "B26-172",
       "color": "Grey",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/36bad45ae953.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70321494/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70321494/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -580,14 +680,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHA9T0156006",
       "stock": "B26-180",
       "color": "Grey",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/91f9ca213553.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70399243/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70399243/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -597,14 +700,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHA2T0149222",
       "stock": "B26-178",
       "color": "Red",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/a2e502af44aa.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70399506/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70399506/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -614,14 +720,17 @@
       "odometer_km": 26,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GT AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KMCHA4T0160261",
       "stock": "B26-187",
       "color": "Black",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/8876d359d95a.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70411365/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70411365/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -631,14 +740,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GT AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHA9T0160914",
       "stock": "B26-192",
       "color": "Grey",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/dbb4c01f1a86.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70527410/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70527410/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -648,14 +760,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHAXT0168732",
       "stock": "B26-209",
       "color": "Blue",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/d10c5a18465d.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70647294/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70647294/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -665,14 +780,17 @@
       "odometer_km": 26,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GT PA AWD / NAVIGATION / SUNROOF!!",
       "vin": "JM3KMCHA8T0176110",
       "stock": "B26-219",
       "color": "Black",
+      "trim": "GT PA",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/611dd459ad84.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70687855/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70687855/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -682,14 +800,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GT PA AWD / NAVIGATION / SUNROOF!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHA0T0168593",
       "stock": "B26-216",
       "color": "Blue",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/155ef33a5546.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70687860/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70687860/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -699,14 +820,17 @@
       "odometer_km": 28,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GT PA AWD / NAVIGATION / SUNROOF!!",
       "vin": "JM3KMCHA7T0171156",
       "stock": "B26-218",
       "color": "Red",
+      "trim": "GT PA",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/cd5d12874512.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70687861/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70687861/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -716,14 +840,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GT PA AWD / NAVIGATION / SUNROOF!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHA8T0174531",
       "stock": "B26-217",
       "color": "Grey",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/81666312219b.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70696686/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70696686/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -733,14 +860,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMAHA2T0166046",
       "stock": "B26-214",
       "color": "Grey",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/b026ae871125.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70696693/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70696693/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -750,14 +880,17 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GT PR AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KMDHA4T0186395",
       "stock": "B26-231",
       "color": "Grey",
+      "trim": "GT PR",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/84b9c5ccca72.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70758382/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70758382/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -767,14 +900,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GT PR AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHA7T0185939",
       "stock": "B26-237",
       "color": "Blue",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/1f73478fd2c5.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70766103/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70766103/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -784,14 +920,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHA9T0186798",
       "stock": "B26-242",
       "color": "Blue",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/8743dc1e1cc2.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70766108/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70766108/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -801,14 +940,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GT PA AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KMCHA9T0188900",
       "stock": "B26-239",
       "color": "Grey",
+      "trim": "GT PA",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/267a379c80a8.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70772423/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70772423/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -818,14 +960,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GT PA AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHA3T0185968",
       "stock": "B26-236",
       "color": "Grey",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/56ee86c0873d.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70787963/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70787963/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -835,14 +980,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMAHA3T0179517",
       "stock": "B26-243",
       "color": "White",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/bd840f0d1d68.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70793633/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70793633/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -852,14 +1000,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHA8T0187960",
       "stock": "B26-238",
       "color": "Red",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/7376f3d2289e.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70793663/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70793663/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -869,14 +1020,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHA8T0181074",
       "stock": "B26-251",
       "color": "Blue",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/67f062278013.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70809081/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70809081/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -886,14 +1040,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHAXT0179133",
       "stock": "B26-249",
       "color": "Red",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/272f2641bac6.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70809082/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70809082/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -903,14 +1060,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GX AWD / BACK UP CAMERA / HEATED SEATS!!",
       "vin": "JM3KMAHA6T0189944",
       "stock": "B26-252",
       "color": "Black",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/12875e77b6af.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70849919/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70849919/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -920,14 +1080,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GX AWD / BACK UP CAMERA / HEATED SEATS!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHA0T0189508",
       "stock": "B26-256",
       "color": "Grey",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/b5d8b1c9636b.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70866914/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70866914/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -937,14 +1100,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMAHAXT0184505",
       "stock": "B26-262",
       "color": "Grey",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/3230a314238c.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70902689/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70902689/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -954,14 +1120,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GT AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KMDHA7T0182888",
       "stock": "B26-266",
       "color": "Grey",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/bf75b6eccee7.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70902691/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70902691/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -971,14 +1140,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GT AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GT AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KMDHA4T0184792",
       "stock": "B26-265",
       "color": "Blue",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/cb137a3e671a.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70902693/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70902693/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -988,14 +1160,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GT AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMAHA9T0183605",
       "stock": "B26-263",
       "color": "Grey",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/f0d6a4059725.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70919293/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70919293/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1005,14 +1180,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMBHAXT0183781",
       "stock": "B26-264",
       "color": "Grey",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/2a082295873e.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70919294/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70919294/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1022,14 +1200,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GT PR AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KMDHA7T0199075",
       "stock": "B26-273",
       "color": "White",
+      "trim": "GT PR",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/87397a5c12c2.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70954213/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70954213/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1039,14 +1220,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GT PR AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GT AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KMCHA5T0151939",
       "stock": "B26-276",
       "color": "Black",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/deaba617e8e5.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70970709/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70970709/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1056,14 +1240,17 @@
       "odometer_km": 297,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GT AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GT PR AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KMDHA9T0199580",
       "stock": "B26-275",
       "color": "Red",
+      "trim": "GT PR",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/d7744b4756f4.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70972082/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70972082/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1073,14 +1260,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GT PR AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMAHA8T0200006",
       "stock": "B26-274",
       "color": "White",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/2ffe0bb4130b.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70972083/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/70972083/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1090,14 +1280,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GT AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KMDHA7T0203271",
       "stock": "B26-283",
       "color": "White",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/ff1fdfc741bd.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71046276/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71046276/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1107,14 +1300,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GT AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMAHA3T0205629",
       "stock": "B26-282",
       "color": "Grey",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/28fca81f6cd7.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71046277/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71046277/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1124,14 +1320,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GT / LEATHER / BLUETOOTH!!",
       "vin": "JM3KMCHA9T0203265",
       "stock": "B26-288",
       "color": "Grey",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/6a1be813c1d6.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71071840/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71071840/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1141,14 +1340,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GT / LEATHER / BLUETOOTH!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GT / LEATHER / BLUETOOTH!!",
       "vin": "JM3KMDHA6T0209305",
       "stock": "B26-291",
       "color": "Blue",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/3f864c5b5258.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71156099/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71156099/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1158,14 +1360,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GT / LEATHER / BLUETOOTH!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GT / LEATHER / BLUETOOTH / SUNROOF!!",
       "vin": "JM3KMDHA5T0209943",
       "stock": "B26-293",
       "color": "Black",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/45a38073f76a.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71156100/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71156100/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1175,14 +1380,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GT / LEATHER / BLUETOOTH / SUNROOF!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS!!",
       "vin": "JM3KMBHA1T0209961",
       "stock": "B26-299",
       "color": "Grey",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/04e84a230177.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71188665/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71188665/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1192,14 +1400,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GX AWD / BACK UP CAMERA!!",
       "vin": "JM3KMAHA0T0208567",
       "stock": "B26-298",
       "color": "Black",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/4804c13fb5dd.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71188667/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71188667/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1209,14 +1420,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GX AWD / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GT / LEATHER / SUNROOF!!",
       "vin": "JM3KMDHA1T0213195",
       "stock": "B26-303",
       "color": "Grey",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/c4fe002e6f3c.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71244733/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71244733/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1226,14 +1440,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GT / LEATHER / SUNROOF!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACKUP CAMERA!!",
       "vin": "JM3KMBHA1T0210625",
       "stock": "B26-306",
       "color": "Grey",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/6d8e308f0775.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71273811/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71273811/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1243,14 +1460,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / HEATED SEATS / BACKUP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / NAVIGATION / HEATED SEATS!!",
       "vin": "JM3KMBHA6T0211625",
       "stock": "B26-314",
       "color": "Grey",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/f42a780d57f8.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71305632/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71305632/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1260,14 +1480,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / NAVIGATION / HEATED SEATS!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GT AWD / PANORAMIC SUNROOF / LEATHER!!",
       "vin": "JM3KMDHA4T0215314",
       "stock": "B26-315",
       "color": "Grey",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/35bb35aee85d.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71305633/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71305633/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1277,14 +1500,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GT AWD / PANORAMIC SUNROOF / LEATHER!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GX AWD / BACK UP CAMERA / HEATED SEATS!!",
       "vin": "JM3KMAHA6T0213448",
       "stock": "B26-313",
       "color": "Grey",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/9f84087f77c0.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71305636/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71305636/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1294,14 +1520,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GX AWD / BACK UP CAMERA / HEATED SEATS!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / BACK UP CAMERA / HEATED SEATS!!",
       "vin": "JM3KMBHA3T0217673",
       "stock": "B26-325",
       "color": "Black",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/fc0de5386a11.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71346126/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71346126/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1311,14 +1540,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / BACK UP CAMERA / HEATED SEATS!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMAHA2T0217738",
       "stock": "B26-327",
       "color": "White",
+      "trim": "GX",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/3498c6ac5878.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71346127/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71346127/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1328,14 +1560,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / BACK UP CAMERA / HEATED SEATS!!",
       "vin": "JM3KMBHA5T0217884",
       "stock": "B26-324",
       "color": "White",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/4ddfbdd46808.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71346130/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71346130/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1345,14 +1580,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / BACK UP CAMERA / HEATED SEATS!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / BACK UP CAMERA / HEATED SEATS!!",
       "vin": "JM3KMBHA3T0217785",
       "stock": "B26-326",
       "color": "White",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/b20d37598d33.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71346131/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71346131/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1362,14 +1600,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / BACK UP CAMERA / HEATED SEATS!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GT AWD / PANORAMIC SUNROOF / HEATED SEATS!!",
       "vin": "JM3KMDHA7T0217591",
       "stock": "B26-322",
       "color": "Grey",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/6552f6f221e8.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71346132/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71346132/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1379,14 +1620,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GT AWD / PANORAMIC SUNROOF / HEATED SEATS!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS AWD / BACK UP CAMERA / HEATED SEATS!!",
       "vin": "JM3KMBHA9T0218035",
       "stock": "B26-323",
       "color": "Black",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/ecc1b456b2ca.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71346133/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71346133/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1396,14 +1640,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS AWD / BACK UP CAMERA / HEATED SEATS!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GT AWD / HEATED SEATS / BACKUP CAMERA!!",
       "vin": "JM3KMDHA3T0219693",
       "stock": "B26-330",
       "color": "Grey",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/64e7dbea67f2.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71396837/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71396837/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1413,14 +1660,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GT AWD / HEATED SEATS / BACKUP CAMERA!!",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GT",
       "vin": "JM3KMDHA9T0225935",
       "stock": "B26-333",
       "color": "White",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/bdf85bdd0752.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71400852/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71400852/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1430,14 +1680,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GT",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-5 GS",
       "vin": "JM3KMBHAXT0223387",
       "stock": "B26-332",
       "color": "Blue",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/3f171ef76e52.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71400853/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-5/nanaimo/bc/71400853/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1447,14 +1700,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-5 GS",
-      "condition": "new"
+      "model": "CX-5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 MHEV GT-P AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KJDHC2T1205076",
       "stock": "B26-25",
       "color": "Red",
+      "trim": "GT-P",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/31041f390267.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-mhev/nanaimo/bc/69249003/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-mhev/nanaimo/bc/69249003/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1464,14 +1720,17 @@
       "odometer_km": 26,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-70 MHEV GT-P AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-70 MHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 MHEV GS-L AWD / LEATHER / SUNROOF!!",
       "vin": "JM3KJCHD4T1211190",
       "stock": "B26-196",
       "color": "Blue",
+      "trim": "GS-L",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/524c54f2b03d.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-mhev/nanaimo/bc/70507519/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-mhev/nanaimo/bc/70507519/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1481,14 +1740,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-70 MHEV GS-L AWD / LEATHER / SUNROOF!!",
-      "condition": "new"
+      "model": "CX-70 MHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 MHEV GT-P AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KJDHC5T1212717",
       "stock": "B26-240",
       "color": "Black",
+      "trim": "GT-P",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/eb0100defa56.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-mhev/nanaimo/bc/70787964/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-mhev/nanaimo/bc/70787964/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1498,14 +1760,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-70 MHEV GT-P AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-70 MHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 MHEV GT-P AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KJDHC4T1213549",
       "stock": "B26-272",
       "color": "Grey",
+      "trim": "GT-P",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/edae870834dd.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-mhev/nanaimo/bc/70954211/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-mhev/nanaimo/bc/70954211/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1515,14 +1780,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-70 MHEV GT-P AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-70 MHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 MHEV GT-P AWD / LEATHER / PANORAMIC SUNROOF!!",
       "vin": "JM3KJDHC3T1215986",
       "stock": "B26-310",
       "color": "White",
+      "trim": "GT-P",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/632dd0479356.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-mhev/nanaimo/bc/71305638/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-mhev/nanaimo/bc/71305638/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1532,14 +1800,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-70 MHEV GT-P AWD / LEATHER / PANORAMIC SUNROOF!!",
-      "condition": "new"
+      "model": "CX-70 MHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 MHEV GT-P AWD / LEATHER / PANORAMIC SUNROOF!!",
       "vin": "JM3KJDHC1T1215596",
       "stock": "B26-309",
       "color": "Grey",
+      "trim": "GT-P",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/a6b46acbf85b.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-mhev/nanaimo/bc/71317777/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-mhev/nanaimo/bc/71317777/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1549,14 +1820,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-70 MHEV GT-P AWD / LEATHER / PANORAMIC SUNROOF!!",
-      "condition": "new"
+      "model": "CX-70 MHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 MHEV GT AWD / SUNROOF / LEATHER!!",
       "vin": "JM3KJDHD8T1215295",
       "stock": "B26-311",
       "color": "Red",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/b17788826d7b.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-mhev/nanaimo/bc/71317778/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-mhev/nanaimo/bc/71317778/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1566,14 +1840,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-70 MHEV GT AWD / SUNROOF / LEATHER!!",
-      "condition": "new"
+      "model": "CX-70 MHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 PHEV GT AWD / LEATHER / ROOF / HEATED SEATS",
       "vin": "JM3KJDHAXT1205714",
       "stock": "B26-34",
       "color": "Blue",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/9693a6362275.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/69440648/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/69440648/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1583,14 +1860,17 @@
       "odometer_km": 26,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-70 PHEV GT AWD / LEATHER / ROOF / HEATED SEATS",
-      "condition": "new"
+      "model": "CX-70 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 PHEV GT AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KJDHA0T1208945",
       "stock": "B26-123",
       "color": "White",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/55c6bff70e15.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/70009212/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/70009212/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1600,14 +1880,17 @@
       "odometer_km": 226,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-70 PHEV GT AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-70 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 PHEV GT AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KJDHA3T1211435",
       "stock": "B26-224",
       "color": "Grey",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/95e751315521.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/70704401/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/70704401/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1617,14 +1900,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-70 PHEV GT AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-70 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 PHEV GT AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KJDHA6T1211798",
       "stock": "B26-226",
       "color": "Black",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/b17b80061cc6.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/70726879/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/70726879/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1634,14 +1920,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-70 PHEV GT AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-70 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 PHEV Signature AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KJEHA4T1212017",
       "stock": "B26-227",
       "color": "White",
+      "trim": "Signature",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/11330f167850.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/70726881/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/70726881/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1651,14 +1940,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-70 PHEV Signature AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-70 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 PHEV Signature AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KJEHA6T1212536",
       "stock": "B26-233",
       "color": "White",
+      "trim": "Signature",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/ef901095f77e.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/70772422/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/70772422/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1668,14 +1960,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-70 PHEV Signature AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-70 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 PHEV Signature AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KJEHA3T1212283",
       "stock": "B26-247",
       "color": "White",
+      "trim": "Signature",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/9d1b668a64e8.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/70798211/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/70798211/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1685,14 +1980,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-70 PHEV Signature AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-70 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 PHEV Signature AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KJEHA9T1212255",
       "stock": "B26-248",
       "color": "Black",
+      "trim": "Signature",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/79e4026f2e1e.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/70809084/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/70809084/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1702,14 +2000,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-70 PHEV Signature AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-70 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 PHEV Signature AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KJEHA0T1212368",
       "stock": "B26-250",
       "color": "White",
+      "trim": "Signature",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/1818e1890a53.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/70820780/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/70820780/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1719,14 +2020,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-70 PHEV Signature AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-70 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 PHEV GT AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KJDHA8T1213147",
       "stock": "B26-259",
       "color": "Brown",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/24744f3f6178.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/70902692/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/70902692/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1736,14 +2040,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-70 PHEV GT AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-70 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-70 PHEV GT-P AWD / LEATHER / PANORAMIC SUNROOF!!",
       "vin": "JM3KJDHA6T1215656",
       "stock": "B26-321",
       "color": "Grey",
+      "trim": "GT-P",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/3d07447e18ad.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/71340227/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-70-phev/nanaimo/bc/71340227/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1753,14 +2060,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-70 PHEV GT-P AWD / LEATHER / PANORAMIC SUNROOF!!",
-      "condition": "new"
+      "model": "CX-70 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 MHEV GT AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KKDHDXT1396798",
       "stock": "B26-168",
       "color": "White",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/ca89074f2e6c.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-mhev/nanaimo/bc/70306589/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-mhev/nanaimo/bc/70306589/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1770,14 +2080,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 MHEV GT AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-90 MHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 MHEV GT-P AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KKDHC9T1393883",
       "stock": "B26-171",
       "color": "Blue",
+      "trim": "GT-P",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/37a3dd681c04.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-mhev/nanaimo/bc/70319886/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-mhev/nanaimo/bc/70319886/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1787,14 +2100,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 MHEV GT-P AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-90 MHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 MHEV GT-P AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KKDHC4T1398442",
       "stock": "B26-207",
       "color": "Red",
+      "trim": "GT-P",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/6c4cc1e7c1aa.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-mhev/nanaimo/bc/70598085/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-mhev/nanaimo/bc/70598085/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1804,14 +2120,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 MHEV GT-P AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-90 MHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 MHEV GS-L AWD / LEATHER / SUNROOF!!",
       "vin": "JM3KKCHD4T1400726",
       "stock": "B26-222",
       "color": "Red",
+      "trim": "GS-L",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/c18b7104b7a7.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-mhev/nanaimo/bc/70696691/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-mhev/nanaimo/bc/70696691/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1821,14 +2140,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 MHEV GS-L AWD / LEATHER / SUNROOF!!",
-      "condition": "new"
+      "model": "CX-90 MHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 MHEV GT-P AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KKDHC2T1402343",
       "stock": "B26-225",
       "color": "Red",
+      "trim": "GT-P",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/20fecc2c73ae.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-mhev/nanaimo/bc/70708152/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-mhev/nanaimo/bc/70708152/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1838,14 +2160,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 MHEV GT-P AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-90 MHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 MHEV GT-P AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KKDHC5T1408721",
       "stock": "B26-241",
       "color": "Black",
+      "trim": "GT-P",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/5ed35f5bda40.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-mhev/nanaimo/bc/70772425/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-mhev/nanaimo/bc/70772425/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1855,14 +2180,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 MHEV GT-P AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-90 MHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 MHEV GT AWD / BLUETOOTH / SUNROOF!!",
       "vin": "JM3KKDHD4T1405284",
       "stock": "B26-320",
       "color": "Blue",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/05e3d0944ebb.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-mhev/nanaimo/bc/71340225/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-mhev/nanaimo/bc/71340225/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1872,14 +2200,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 MHEV GT AWD / BLUETOOTH / SUNROOF!!",
-      "condition": "new"
+      "model": "CX-90 MHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 MHEV GT AWD/ LEATHER / SUNROOF!!",
       "vin": "JM3KKDHD0T1407176",
       "stock": "B26-318",
       "color": "Red",
+      "trim": "GT / LEATHER",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/7b4b9454e878.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-mhev/nanaimo/bc/71340226/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-mhev/nanaimo/bc/71340226/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1889,14 +2220,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 MHEV GT AWD/ LEATHER / SUNROOF!!",
-      "condition": "new"
+      "model": "CX-90 MHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 MHEV GT AWD / NAVIGATION / SUNROOF!!",
       "vin": "JM3KKDHDXT1401580",
       "stock": "B26-331",
       "color": "Black",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/843893ad4d7a.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-mhev/nanaimo/bc/71396838/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-mhev/nanaimo/bc/71396838/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1906,14 +2240,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 MHEV GT AWD / NAVIGATION / SUNROOF!!",
-      "condition": "new"
+      "model": "CX-90 MHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 PHEV Signature NAVIGATION / ROOF/ COOLED S",
       "vin": "JM3KKEHA6T1367939",
       "stock": "B26-7",
       "color": "Red",
+      "trim": "Signature NAVIGATION",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/7ef4215e2650.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/69003435/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/69003435/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1923,14 +2260,17 @@
       "odometer_km": 26,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 PHEV Signature NAVIGATION / ROOF/ COOLED S",
-      "condition": "new"
+      "model": "CX-90 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 PHEV GT AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KKDHA9T1375771",
       "stock": "B26-31",
       "color": "Black",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/88cf6d2b1266.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/69257604/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/69257604/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1940,14 +2280,17 @@
       "odometer_km": 23,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 PHEV GT AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-90 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 PHEV GT AWD CAPTAINS CHAIRS / LEATHER / NAVIGATION!!",
       "vin": "JM3KKDHA2T1390290",
       "stock": "B26-124",
       "color": "Grey",
+      "trim": "GT CAPTAINS CHAIRS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/19a95f5acee8.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/70009214/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/70009214/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1957,14 +2300,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 PHEV GT AWD CAPTAINS CHAIRS / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-90 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 PHEV Signature AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KKEHA8T1392048",
       "stock": "B26-136",
       "color": "Red",
+      "trim": "Signature",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/b995031c8df3.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/70105637/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/70105637/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1974,14 +2320,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 PHEV Signature AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-90 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 PHEV GT AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KKDHAXT1409720",
       "stock": "B26-254",
       "color": "Grey",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/c74a2d5639f1.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/70849922/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/70849922/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1991,14 +2340,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 PHEV GT AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "CX-90 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 PHEV GT AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KKDHA8T1409988",
       "stock": "B26-270",
       "color": "Grey",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/3c933b5ad144.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/70919295/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/70919295/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2008,14 +2360,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 PHEV GT AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-90 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 PHEV GS-L AWD / LEATHER / SUNROOF!!",
       "vin": "JM3KKCHA6T1410132",
       "stock": "B26-269",
       "color": "Blue",
+      "trim": "GS-L",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/c6ec39212463.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/70919297/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/70919297/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2025,14 +2380,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 PHEV GS-L AWD / LEATHER / SUNROOF!!",
-      "condition": "new"
+      "model": "CX-90 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 PHEV GS-L AWD / LEATHER / SUNROOF!!",
       "vin": "JM3KKCHA3T1410430",
       "stock": "B26-260",
       "color": "Black",
+      "trim": "GS-L",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/fef5cde02326.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/70919298/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/70919298/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2042,14 +2400,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 PHEV GS-L AWD / LEATHER / SUNROOF!!",
-      "condition": "new"
+      "model": "CX-90 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 PHEV GT AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KKDHA3T1410322",
       "stock": "B26-261",
       "color": "Black",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/b60eca4f8a22.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/70919299/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/70919299/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2059,14 +2420,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 PHEV GT AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-90 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 PHEV GT / LEATHER / BLUETOOTH!!",
       "vin": "JM3KKDHA3T1413849",
       "stock": "B26-287",
       "color": "Blue",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/dd7308845d94.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/71071841/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/71071841/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2076,14 +2440,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 PHEV GT / LEATHER / BLUETOOTH!!",
-      "condition": "new"
+      "model": "CX-90 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 PHEV GT / AWD/ SUNROOF / BLUETOOTH!!",
       "vin": "JM3KKDHA7T1416575",
       "stock": "B26-292",
       "color": "White",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/8d1402129a42.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/71156101/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/71156101/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2093,14 +2460,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 PHEV GT / AWD/ SUNROOF / BLUETOOTH!!",
-      "condition": "new"
+      "model": "CX-90 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 PHEV GS-L AWD / LEATHER / HEATED SEATS!!",
       "vin": "JM3KKCHA5T1416441",
       "stock": "B26-294",
       "color": "Blue",
+      "trim": "GS-L",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/cce3fffd8d2a.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/71176044/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/71176044/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2110,14 +2480,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 PHEV GS-L AWD / LEATHER / HEATED SEATS!!",
-      "condition": "new"
+      "model": "CX-90 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 PHEV GT / AWD / BLUETOOTH!!",
       "vin": "JM3KKDHA0T1416109",
       "stock": "B26-295",
       "color": "White",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/ec15cbf6c47c.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/71188664/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/71188664/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2127,14 +2500,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 PHEV GT / AWD / BLUETOOTH!!",
-      "condition": "new"
+      "model": "CX-90 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 PHEV Signature AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KKEHA1T1416142",
       "stock": "B26-297",
       "color": "Red",
+      "trim": "Signature",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/dd83083b17f9.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/71188666/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/71188666/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2144,14 +2520,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 PHEV Signature AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "CX-90 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 PHEV GT AWD / SUNROOF / LEATHER!!",
       "vin": "JM3KKDHA6T1417779",
       "stock": "B26-312",
       "color": "Red",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/9212c096ed42.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/71305641/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/71305641/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2161,14 +2540,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 PHEV GT AWD / SUNROOF / LEATHER!!",
-      "condition": "new"
+      "model": "CX-90 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda CX-90 PHEV GT-P AWD / LEATHER / PANORAMIC SUNROOF!!",
       "vin": "JM3KKDHAXT1418546",
       "stock": "B26-329",
       "color": "White",
+      "trim": "GT-P",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/e16893749aa2.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/71346128/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/cx-90-phev/nanaimo/bc/71346128/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2178,14 +2560,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "CX-90 PHEV GT-P AWD / LEATHER / PANORAMIC SUNROOF!!",
-      "condition": "new"
+      "model": "CX-90 PHEV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sedan GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM1BPBCL0T1877754",
       "stock": "B26-74",
       "color": "White",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/31fda11d891f.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sedan/nanaimo/bc/69726884/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sedan/nanaimo/bc/69726884/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2195,14 +2580,17 @@
       "odometer_km": 26,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sedan GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sedan GT AWD / LEATHER / NAVIGATION!!",
       "vin": "JM1BPBDL2T1879293",
       "stock": "B26-114",
       "color": "Silver",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/7f0cc663e194.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sedan/nanaimo/bc/69937511/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sedan/nanaimo/bc/69937511/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2212,14 +2600,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sedan GT AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sedan GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM1BPBCL9T1881155",
       "stock": "B26-135",
       "color": "Red",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/a25d3dc45f8c.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sedan/nanaimo/bc/70083250/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sedan/nanaimo/bc/70083250/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2229,14 +2620,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sedan GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sedan GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM1BPBCL0T1883103",
       "stock": "B26-164",
       "color": "Blue",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/1a243628a373.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sedan/nanaimo/bc/70306590/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sedan/nanaimo/bc/70306590/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2246,14 +2640,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sedan GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sedan GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "3MZBPBCL5TM511398",
       "stock": "B26-204",
       "color": "White",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/b6f9eb31a106.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sedan/nanaimo/bc/70758384/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sedan/nanaimo/bc/70758384/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2263,14 +2660,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sedan GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sedan GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "3MZBPBCL0TM513124",
       "stock": "B26-203",
       "color": "Grey",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/c0e226323dd4.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sedan/nanaimo/bc/70766092/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sedan/nanaimo/bc/70766092/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2280,14 +2680,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sedan GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sedan GS FWD / LEATHER / BACK UP CAMERA!!",
       "vin": "3MZBPACL1TM514339",
       "stock": "B26-267",
       "color": "Red",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/918b4a2cc107.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sedan/nanaimo/bc/70902690/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sedan/nanaimo/bc/70902690/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2297,14 +2700,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sedan GS FWD / LEATHER / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sedan GS / FWD / BACKUP CAM / HEATED SEATS!!",
       "vin": "3MZBPBCLXTM514698",
       "stock": "B26-268",
       "color": "White",
+      "trim": "GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/58aaa5bf9f92.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sedan/nanaimo/bc/71084025/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sedan/nanaimo/bc/71084025/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2314,14 +2720,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sedan GS / FWD / BACKUP CAM / HEATED SEATS!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sedan GT/ LEATHER / SUNROOF!!",
       "vin": "3MZBPBDL5TM511335",
       "stock": "B26-296",
       "color": "Red",
+      "trim": "GT/ LEATHER",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/0a11f2a4b4e9.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sedan/nanaimo/bc/71188668/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sedan/nanaimo/bc/71188668/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2331,14 +2740,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sedan GT/ LEATHER / SUNROOF!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sport GT AWD / LEATHER / NAVIGATION!!",
       "vin": "JM1BPBML2T1862882",
       "stock": "B26-21",
       "color": "Red",
+      "trim": "Sport GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/dd959e3dfcdd.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/69193459/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/69193459/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2348,14 +2760,17 @@
       "odometer_km": 56,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sport GT AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sport GT w/Turbo AWD / LEATHER / NAVIGATION!!",
       "vin": "JM1BPBMY0T1871091",
       "stock": "B26-33",
       "color": "Silver",
+      "trim": "Sport GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/ee502f10b7c6.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/69440649/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/69440649/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2365,14 +2780,17 @@
       "odometer_km": 23,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sport GT w/Turbo AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sport GT AWD / LEATHER / ROOF / HEATED SEATS",
       "vin": "JM1BPBML6T1860195",
       "stock": "B26-41",
       "color": "Black",
+      "trim": "Sport GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/7721d0c668cb.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/69519233/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/69519233/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2382,14 +2800,17 @@
       "odometer_km": 206,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sport GT AWD / LEATHER / ROOF / HEATED SEATS",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sport GT w/Turbo AWD / LEATHER / NAVIGATION!!",
       "vin": "JM1BPBMY6T1877297",
       "stock": "B26-88",
       "color": "Grey",
+      "trim": "Sport GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/9254c53915e2.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/69832710/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/69832710/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2399,14 +2820,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sport GT w/Turbo AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sport GS-L AWD / LEATHER / BACK UP CAMERA!!",
       "vin": "JM1BPBLL4T1879121",
       "stock": "B26-115",
       "color": "Black",
+      "trim": "Sport GS-L",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/1c5b4040c665.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/69937512/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/69937512/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2416,14 +2840,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sport GS-L AWD / LEATHER / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sport GT w/Turbo AWD / LEATHER / NAVIGATION!!",
       "vin": "JM1BPBMY8T1884560",
       "stock": "B26-148",
       "color": "Red",
+      "trim": "Sport GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/e993c8e153aa.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/70211533/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/70211533/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2433,14 +2860,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sport GT w/Turbo AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sport GS FWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM1BPALL2T1884263",
       "stock": "B26-146",
       "color": "Black",
+      "trim": "Sport GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/a6713ad9b564.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/70213014/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/70213014/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2450,14 +2880,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sport GS FWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sport GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM1BPBLL3T1882463",
       "stock": "B26-161",
       "color": "White",
+      "trim": "Sport GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/33b0a024062b.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/70294478/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/70294478/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2467,14 +2900,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sport GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sport GT w/Turbo AWD / LEATHER / NAVIGATION!!",
       "vin": "JM1BPBMY9T1886446",
       "stock": "B26-177",
       "color": "Black",
+      "trim": "Sport GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/37758c36662c.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/70399507/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/70399507/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2484,14 +2920,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sport GT w/Turbo AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sport GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM1BPBLL1T1887063",
       "stock": "B26-189",
       "color": "Grey",
+      "trim": "Sport GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/0427d5704a2d.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/70439255/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/70439255/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2501,14 +2940,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sport GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sport GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM1BPBLL5T1888975",
       "stock": "B26-213",
       "color": "White",
+      "trim": "Sport GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/0e89fbe41373.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/70687858/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/70687858/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2518,14 +2960,17 @@
       "odometer_km": 54,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sport GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sport GT AWD / LEATHER / NAVIGATION!!",
       "vin": "JM1BPBML2T1891153",
       "stock": "B26-246",
       "color": "Silver",
+      "trim": "Sport GT",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/65f0264ccc9f.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/70809083/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/70809083/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2535,14 +2980,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sport GT AWD / LEATHER / NAVIGATION!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sport GX FWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM1BPAKL9T1896475",
       "stock": "B26-271",
       "color": "Black",
+      "trim": "Sport GX",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/59abf4fea1a7.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/70954212/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/70954212/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2552,14 +3000,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sport GX FWD / HEATED SEATS / BACK UP CAMERA!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sport GS AWD / BACK UP CAMERA / HEATED SEATS!!",
       "vin": "JM1BPBLL8T1903761",
       "stock": "B26-319",
       "color": "Red",
+      "trim": "Sport GS",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/02f85b3fb0d4.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/71340224/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/71340224/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2569,14 +3020,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sport GS AWD / BACK UP CAMERA / HEATED SEATS!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mazda Mazda3 Sport GX FWD / HEATED SEATS / BLUETOOTH!!",
       "vin": "JM1BPAKL0T1903314",
       "stock": "B26-328",
       "color": "White",
+      "trim": "Sport GX",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/1dd7e8e256dd.html",
       "source_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/71346129/?sale_class=new",
       "dealer_url": "https://www.harrismazda.ca/vehicles/2026/mazda/mazda3-sport/nanaimo/bc/71346129/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2586,8 +3040,10 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Mazda",
-      "model": "Mazda3 Sport GX FWD / HEATED SEATS / BLUETOOTH!!",
-      "condition": "new"
+      "model": "Mazda3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     }
   ]
 }
