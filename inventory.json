@@ -1,6 +1,6 @@
 {
   "dealership": "Harris Mazda",
-  "generated_at": "2026-10-25T18:21:37",
+  "generated_at": "2026-10-26T03:22:06",
   "vehicle_count": 275,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -742,7 +742,7 @@
       "make": "Mazda",
       "model": "CX-9",
       "condition": "used",
-      "price": 37999.0,
+      "price": 37499.0,
       "price_currency": "CAD"
     },
     {
@@ -764,7 +764,7 @@
       "make": "Mazda",
       "model": "Mazda3",
       "condition": "used",
-      "price": 29545.0,
+      "price": 29330.0,
       "price_currency": "CAD"
     },
     {
@@ -775,7 +775,7 @@
       "make": "Mitsubishi",
       "model": "Outlander",
       "condition": "used",
-      "price": 29159.0,
+      "price": 28588.0,
       "price_currency": "CAD"
     },
     {
@@ -786,7 +786,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 22999.0,
+      "price": 23999.0,
       "price_currency": "CAD"
     },
     {
@@ -797,7 +797,7 @@
       "make": "Tesla",
       "model": "Model Y",
       "condition": "used",
-      "price": 40999.0,
+      "price": 40499.0,
       "price_currency": "CAD"
     },
     {
@@ -823,22 +823,26 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Toyota RAV4 LE",
+      "name": "2023 Toyota RAV4 LE AWD / HEATED SEATS / BLUETOOTH!!",
       "vin": "2T3B1RFV2PC358172",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/used/bf3a065f2be8.html",
       "year": 2023,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "price": 32499.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2023 Toyota Tacoma",
+      "name": "2023 Toyota Tacoma TRD 4x4 Off Road / LEATHER / SUNROOF!!",
       "vin": "3TYCZ5AN5PT107616",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/used/c995221e3682.html",
       "year": 2023,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "price": 54999.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2023 Volkswagen Jetta Sedan Comfortline LEATHER / BACK UP CAMERA!!",
@@ -848,7 +852,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "used",
-      "price": 22999.0,
+      "price": 22888.0,
       "price_currency": "CAD"
     },
     {
@@ -870,11 +874,11 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 54499.0,
+      "price": 56999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 GMC Terrain SLE",
+      "name": "2024 GMC Terrain SLE / BACKUP CAMERA / BLUETOOTH!!",
       "vin": "3GKALTEG8RL340584",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/used/2c4a586603ae.html",
       "year": 2024,
