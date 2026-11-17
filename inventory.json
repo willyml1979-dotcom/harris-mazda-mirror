@@ -1,7 +1,7 @@
 {
   "dealership": "Harris Mazda",
-  "generated_at": "2026-10-26T03:22:06",
-  "vehicle_count": 275,
+  "generated_at": "2026-11-16T19:45:03",
+  "vehicle_count": 274,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -907,7 +907,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 38999.0,
+      "price": 38440.0,
       "price_currency": "CAD"
     },
     {
@@ -951,7 +951,7 @@
       "make": "Mitsubishi",
       "model": "Mirage",
       "condition": "used",
-      "price": 19999.0,
+      "price": 19499.0,
       "price_currency": "CAD"
     },
     {
@@ -984,7 +984,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 26499.0,
+      "price": 25999.0,
       "price_currency": "CAD"
     },
     {
@@ -995,7 +995,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 28636.0,
+      "price": 28333.0,
       "price_currency": "CAD"
     },
     {
@@ -1006,7 +1006,7 @@
       "make": "Toyota",
       "model": "Camry",
       "condition": "used",
-      "price": 29999.0,
+      "price": 29707.0,
       "price_currency": "CAD"
     },
     {
@@ -1017,7 +1017,7 @@
       "make": "Volkswagen",
       "model": "Golf GTI",
       "condition": "used",
-      "price": 37499.0,
+      "price": 36396.0,
       "price_currency": "CAD"
     },
     {
@@ -1039,7 +1039,7 @@
       "make": "Audi",
       "model": "Q3",
       "condition": "used",
-      "price": 37499.0,
+      "price": 36999.0,
       "price_currency": "CAD"
     },
     {
@@ -1050,11 +1050,11 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "used",
-      "price": 28999.0,
+      "price": 34995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford Bronco Sport Big Bend",
+      "name": "2025 Ford Bronco Sport Big Bend 4x4 / BACKUP CAMERA / HEATED SEATS!!",
       "vin": "3FMCR9BN1SRE16430",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/used/c96ae9154c6c.html",
       "year": 2025,
@@ -1492,14 +1492,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda CX-30 GT w/Turbo AWD / LEATHER / NAVIGATION!!",
+      "name": "2026 Mazda CX-30 GT w/Turbo AWD KURO / LEATHER / NAVIGATION!!",
       "vin": "3MVDMBAYXTM147965",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/2b4491afd3a3.html",
       "year": 2026,
       "make": "Mazda",
       "model": "CX-30",
       "condition": "new",
-      "price": 43835.0,
+      "price": 43585.0,
       "price_currency": "CAD"
     },
     {
@@ -1602,14 +1602,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda CX-30 GX",
-      "vin": "3MVDMBBL5TM240394",
-      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/912f36a0d975.html",
+      "name": "2026 Mazda CX-30 GS AWD / HEATED SEATS / BLUETOOTH!!",
+      "vin": "3MVDMBCLXTM241748",
+      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/429f49362df8.html",
       "year": 2026,
       "make": "Mazda",
       "model": "CX-30",
       "condition": "new",
-      "price": 31885.0,
+      "price": 34385.0,
       "price_currency": "CAD"
     },
     {
@@ -1620,7 +1620,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 49196.0,
+      "price": 48946.0,
       "price_currency": "CAD"
     },
     {
@@ -1631,7 +1631,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 41696.0,
+      "price": 41446.0,
       "price_currency": "CAD"
     },
     {
@@ -1642,7 +1642,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 38446.0,
+      "price": 38196.0,
       "price_currency": "CAD"
     },
     {
@@ -1653,18 +1653,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 38446.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "vin": "JM3KMAHA4T0131220",
-      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/4c839d4b09ee.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "new",
-      "price": 38546.0,
+      "price": 38196.0,
       "price_currency": "CAD"
     },
     {
@@ -1675,7 +1664,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 41696.0,
+      "price": 41446.0,
       "price_currency": "CAD"
     },
     {
@@ -1745,17 +1734,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda CX-5 GT AWD / LEATHER / NAVIGATION!!",
-      "vin": "JM3KMCHA1T0145104",
-      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/6d916045169d.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "new",
-      "price": 46446.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mazda CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMAHA5T0145806",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/4b252c9ca019.html",
@@ -1764,17 +1742,6 @@
       "model": "CX-5",
       "condition": "new",
       "price": 38546.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / BACK UP CAMERA!!",
-      "vin": "JM3KMBHA7T0155646",
-      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/5bf9c42af936.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "new",
-      "price": 41496.0,
       "price_currency": "CAD"
     },
     {
@@ -2053,17 +2020,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda CX-5 GT AWD / LEATHER / NAVIGATION!!",
-      "vin": "JM3KMDHA7T0203271",
-      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/ff1fdfc741bd.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "new",
-      "price": 48996.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mazda CX-5 GX AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM3KMAHA3T0205629",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/28fca81f6cd7.html",
@@ -2075,17 +2031,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda CX-5 GT / LEATHER / BLUETOOTH!!",
-      "vin": "JM3KMCHA9T0203265",
-      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/6a1be813c1d6.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "new",
-      "price": 44496.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS!!",
       "vin": "JM3KMBHA1T0209961",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/04e84a230177.html",
@@ -2094,28 +2039,6 @@
       "model": "CX-5",
       "condition": "new",
       "price": 41496.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda CX-5 GX AWD / BACK UP CAMERA!!",
-      "vin": "JM3KMAHA0T0208567",
-      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/4804c13fb5dd.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "new",
-      "price": 38046.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda CX-5 GT / LEATHER / SUNROOF!!",
-      "vin": "JM3KMDHA1T0213195",
-      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/c4fe002e6f3c.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "new",
-      "price": 48845.0,
       "price_currency": "CAD"
     },
     {
@@ -2185,39 +2108,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda CX-5 GS AWD / BACK UP CAMERA / HEATED SEATS!!",
-      "vin": "JM3KMBHA5T0217884",
-      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/4ddfbdd46808.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "new",
-      "price": 41596.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda CX-5 GS AWD / BACK UP CAMERA / HEATED SEATS!!",
-      "vin": "JM3KMBHA3T0217785",
-      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/b20d37598d33.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "new",
-      "price": 41596.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda CX-5 GT AWD / PANORAMIC SUNROOF / HEATED SEATS!!",
-      "vin": "JM3KMDHA7T0217591",
-      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/6552f6f221e8.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "new",
-      "price": 48996.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mazda CX-5 GT AWD / HEATED SEATS / BACKUP CAMERA!!",
       "vin": "JM3KMDHA3T0219693",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/64e7dbea67f2.html",
@@ -2226,17 +2116,6 @@
       "model": "CX-5",
       "condition": "new",
       "price": 48996.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda CX-5 GT AWD / NAVIGATION / SUNROOF!!",
-      "vin": "JM3KMDHA9T0225935",
-      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/bdf85bdd0752.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "new",
-      "price": 49096.0,
       "price_currency": "CAD"
     },
     {
@@ -2295,14 +2174,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda CX-5 GT",
-      "vin": "JM3KMCHA8T0234264",
-      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/42ee21411355.html",
+      "name": "2026 Mazda CX-5 GT AWD / HEATED SEATS / SUNROOF!!",
+      "vin": "JM3KMDHA2T0240034",
+      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/9782a3fc6280.html",
       "year": 2026,
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 44496.0,
+      "price": 49196.0,
       "price_currency": "CAD"
     },
     {
@@ -2369,6 +2248,28 @@
       "model": "CX-70 MHEV",
       "condition": "new",
       "price": 55903.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Mazda CX-70 MHEV GT AWD / HEATED SEATS / SUNROOF!!",
+      "vin": "JM3KJDHD8T1218598",
+      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/6e28459e95c7.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-70 MHEV",
+      "condition": "new",
+      "price": 55403.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Mazda CX-70 MHEV GT-P AWD / HEATED SEATS / SUNROOF!!",
+      "vin": "JM3KJDHC0T1209935",
+      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/b4d204fcf91d.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-70 MHEV",
+      "condition": "new",
+      "price": 58953.0,
       "price_currency": "CAD"
     },
     {
@@ -2482,6 +2383,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Mazda CX-70 PHEV GS-L AWD / SUNROOF / HEATED SEATS!!",
+      "vin": "JM3KJCHF5T1353176",
+      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/c3e34206b4b7.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-70 PHEV",
+      "condition": "new",
+      "price": 56903.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Mazda CX-90 MHEV GT AWD / LEATHER / NAVIGATION!!",
       "vin": "JM3KKDHDXT1396798",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/ca89074f2e6c.html",
@@ -2578,6 +2490,39 @@
       "model": "CX-90 MHEV",
       "condition": "new",
       "price": 56575.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Mazda CX-90 MHEV GT AWD / SUNROOF / HEATED SEATS!!",
+      "vin": "JM3KKDHD8T1422962",
+      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/4ab52239d314.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-90 MHEV",
+      "condition": "new",
+      "price": 56475.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Mazda CX-90 MHEV GS-L AWD / WIRELESS CHARGER / HEATED SEATS!!",
+      "vin": "JM3KKCHDXT1423640",
+      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/7f6b4361f10e.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-90 MHEV",
+      "condition": "new",
+      "price": 51475.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Mazda CX-90 MHEV GT AWD / SUNROOF / HEATED SEATS / LEATHER!!",
+      "vin": "JM3KKDHD2T1424321",
+      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/8b326ed8b41d.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-90 MHEV",
+      "condition": "new",
+      "price": 56475.0,
       "price_currency": "CAD"
     },
     {
@@ -2746,6 +2691,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Mazda CX-90 PHEV GT AWD / HEATED SEATS / SUNROOF!!",
+      "vin": "JM3KKDHA0T1421133",
+      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/3b2b0a00983c.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-90 PHEV",
+      "condition": "new",
+      "price": 62225.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Mazda CX-90 PHEV GS-L AWD / HEATED SEATS / WIRELESS CHARGING PAD!!",
+      "vin": "JM3KKCHA2T1424304",
+      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/45250dc57bc7.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-90 PHEV",
+      "condition": "new",
+      "price": 58125.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Mazda Mazda3 Sedan GS AWD / HEATED SEATS / BACK UP CAMERA!!",
       "vin": "JM1BPBCL0T1877754",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/31fda11d891f.html",
@@ -2856,17 +2823,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda Mazda3 Sedan GX",
-      "vin": "3MZBPABLXTM517337",
-      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/b705cd10c6af.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "Mazda3",
-      "condition": "new",
-      "price": 27190.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mazda Mazda3 Sport GT w/Turbo AWD / LEATHER / NAVIGATION!!",
       "vin": "JM1BPBMY0T1871091",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/ee502f10b7c6.html",
@@ -2955,25 +2911,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda Mazda3 Sport GT w/Turbo / HEATED SEATS / SUNROOF!!",
-      "vin": "JM1BPBMY4T1880179",
-      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/98f246e0a6f1.html",
+      "name": "2026 Mazda Mazda3 Sport GS AWD / BACK UP CAMERA / HEATED SEATS!!",
+      "vin": "JM1BPBLL0T1910512",
+      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/30764ea01b6a.html",
       "year": 2026,
       "make": "Mazda",
       "model": "Mazda3",
       "condition": "new",
-      "price": 40895.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda Mazda3 Sport GX",
-      "vin": "JM1BPAKL6T1908128",
-      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/d981a31d976d.html",
-      "year": 2026,
-      "make": "Mazda",
-      "model": "Mazda3",
-      "condition": "new",
-      "price": 28340.0,
+      "price": 34740.0,
       "price_currency": "CAD"
     },
     {
@@ -3018,6 +2963,50 @@
       "model": "Highlander",
       "condition": "used",
       "price": 63999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mazda CX-5 GT AWD / HEATED SEATS / SUNROOF!!",
+      "vin": "JM3KMDHA3V0243446",
+      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/1c97c35b0223.html",
+      "year": 2027,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "new",
+      "price": 49646.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mazda CX-5 GT AWD / HEATED SEATS / SUNROOF!!",
+      "vin": "JM3KMDHA7V0247659",
+      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/7f35061e2481.html",
+      "year": 2027,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "new",
+      "price": 49646.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mazda CX-5 GT AWD / SUNROOF / HEATED SEATS!!",
+      "vin": "JM3KMDHA1V0243865",
+      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/867ab38047ed.html",
+      "year": 2027,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "new",
+      "price": 50046.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Mazda CX-5 GT AWD / HEATED SEATS / SUNROOF!!",
+      "vin": "JM3KMDHA8V0243152",
+      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/0c76eb1bf40e.html",
+      "year": 2027,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "new",
+      "price": 49946.0,
       "price_currency": "CAD"
     }
   ]
