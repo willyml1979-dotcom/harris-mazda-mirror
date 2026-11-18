@@ -1,7 +1,7 @@
 {
   "dealership": "Harris Mazda",
-  "generated_at": "2026-11-17T18:38:12",
-  "vehicle_count": 258,
+  "generated_at": "2026-11-18T04:48:46",
+  "vehicle_count": 257,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -13,7 +13,7 @@
       "make": "Chevrolet",
       "model": "Camaro",
       "condition": "used",
-      "price": 18999.0,
+      "price": 18777.0,
       "price_currency": "CAD"
     },
     {
@@ -28,6 +28,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2013 Fiat 500 Cabrio Lounge",
+      "vin": "3C3CFFER4DT569176",
+      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/used/aadc282f5a44.html",
+      "year": 2013,
+      "make": "Fiat",
+      "model": "500 Cabrio Lounge",
+      "condition": "used"
+    },
+    {
       "name": "2013 Nissan Frontier PRO-4X 4x4 / SUNROOF / ROOF RACKS!!",
       "vin": "1N6AD0EV2DN711668",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/used/beb646715b9e.html",
@@ -37,15 +46,6 @@
       "condition": "used",
       "price": 19999.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Dodge Journey Canada Value Pkg",
-      "vin": "3C4PDCAB8ET134379",
-      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/used/fb32c8e5c473.html",
-      "year": 2014,
-      "make": "Dodge",
-      "model": "Journey",
-      "condition": "used"
     },
     {
       "name": "2014 Ford F-150 XLT / 5.5 CAB / CRUISE CONTROL!!",
@@ -88,7 +88,7 @@
       "make": "Volkswagen",
       "model": "Touareg",
       "condition": "used",
-      "price": 15999.0,
+      "price": 14999.0,
       "price_currency": "CAD"
     },
     {
@@ -99,7 +99,7 @@
       "make": "Jeep",
       "model": "Cherokee",
       "condition": "used",
-      "price": 11999.0,
+      "price": 11700.0,
       "price_currency": "CAD"
     },
     {
@@ -143,7 +143,7 @@
       "make": "Mazda",
       "model": "MX-5",
       "condition": "used",
-      "price": 21333.0,
+      "price": 20770.0,
       "price_currency": "CAD"
     },
     {
@@ -829,17 +829,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Mitsubishi Mirage GT CVT / HEATED SEATS / BLUETOOTH!!",
-      "vin": "ML32AWHJ7RH035884",
-      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/used/b1d2c0c21585.html",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "Mirage",
-      "condition": "used",
-      "price": 19499.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Mitsubishi Mirage GT CVT / HEATED SEATS / TOUCHSCREEN!!",
       "vin": "ML32AWHJXRH015760",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/used/8627da556a8b.html",
@@ -881,17 +870,6 @@
       "model": "Crosstrek",
       "condition": "used",
       "price": 28333.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Audi Q3 Progressiv AWD / HEATED SEATS / SUNROOF!!",
-      "vin": "WA1EECF37S1112201",
-      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/used/1a7b51f3fcd0.html",
-      "year": 2025,
-      "make": "Audi",
-      "model": "Q3",
-      "condition": "used",
-      "price": 36999.0,
       "price_currency": "CAD"
     },
     {
@@ -1263,7 +1241,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 45999.0,
+      "price": 44999.0,
       "price_currency": "CAD"
     },
     {
@@ -1300,7 +1278,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda CX-90 PHEV GT",
+      "name": "2026 Mazda CX-90 PHEV GT AWD / HEATED SEATS / SUNROOF!!",
       "vin": "JM3KKDHA8T1409988",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/used/22a4e01bb50b.html",
       "year": 2026,
@@ -2055,7 +2033,7 @@
       "make": "Mazda",
       "model": "CX-70 MHEV",
       "condition": "new",
-      "price": 60003.0,
+      "price": 59503.0,
       "price_currency": "CAD"
     },
     {
@@ -2066,7 +2044,7 @@
       "make": "Mazda",
       "model": "CX-70 MHEV",
       "condition": "new",
-      "price": 56003.0,
+      "price": 55503.0,
       "price_currency": "CAD"
     },
     {
@@ -2110,7 +2088,7 @@
       "make": "Mazda",
       "model": "CX-70 PHEV",
       "condition": "new",
-      "price": 62003.0,
+      "price": 61503.0,
       "price_currency": "CAD"
     },
     {
@@ -2209,7 +2187,7 @@
       "make": "Mazda",
       "model": "CX-70 PHEV",
       "condition": "new",
-      "price": 62403.0,
+      "price": 61903.0,
       "price_currency": "CAD"
     },
     {
@@ -2275,7 +2253,7 @@
       "make": "Mazda",
       "model": "CX-90 MHEV",
       "condition": "new",
-      "price": 61175.0,
+      "price": 60675.0,
       "price_currency": "CAD"
     },
     {
@@ -2286,7 +2264,7 @@
       "make": "Mazda",
       "model": "CX-90 MHEV",
       "condition": "new",
-      "price": 60525.0,
+      "price": 60025.0,
       "price_currency": "CAD"
     },
     {
@@ -2297,7 +2275,7 @@
       "make": "Mazda",
       "model": "CX-90 MHEV",
       "condition": "new",
-      "price": 56575.0,
+      "price": 56075.0,
       "price_currency": "CAD"
     },
     {
@@ -2308,7 +2286,7 @@
       "make": "Mazda",
       "model": "CX-90 MHEV",
       "condition": "new",
-      "price": 57075.0,
+      "price": 56575.0,
       "price_currency": "CAD"
     },
     {
@@ -2319,7 +2297,7 @@
       "make": "Mazda",
       "model": "CX-90 MHEV",
       "condition": "new",
-      "price": 56575.0,
+      "price": 56075.0,
       "price_currency": "CAD"
     },
     {
@@ -2353,6 +2331,17 @@
       "model": "CX-90 MHEV",
       "condition": "new",
       "price": 56475.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Mazda CX-90 MHEV GS-L",
+      "vin": "JM3KKCHD0T1423355",
+      "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/42897124f45d.html",
+      "year": 2026,
+      "make": "Mazda",
+      "model": "CX-90 MHEV",
+      "condition": "new",
+      "price": 51475.0,
       "price_currency": "CAD"
     },
     {
@@ -2407,7 +2396,7 @@
       "make": "Mazda",
       "model": "CX-90 PHEV",
       "condition": "new",
-      "price": 63496.0,
+      "price": 62996.0,
       "price_currency": "CAD"
     },
     {
@@ -2477,14 +2466,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda CX-90 PHEV GT / AWD / BLUETOOTH!!",
+      "name": "2026 Mazda CX-90 PHEV GT/ LEATHER / SUNROOF!!",
       "vin": "JM3KKDHA0T1416109",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/ec15cbf6c47c.html",
       "year": 2026,
       "make": "Mazda",
       "model": "CX-90 PHEV",
       "condition": "new",
-      "price": 63125.0,
+      "price": 62625.0,
       "price_currency": "CAD"
     },
     {
@@ -2495,7 +2484,7 @@
       "make": "Mazda",
       "model": "CX-90 PHEV",
       "condition": "new",
-      "price": 70775.0,
+      "price": 70275.0,
       "price_currency": "CAD"
     },
     {
@@ -2506,7 +2495,7 @@
       "make": "Mazda",
       "model": "CX-90 PHEV",
       "condition": "new",
-      "price": 63225.0,
+      "price": 62725.0,
       "price_currency": "CAD"
     },
     {
@@ -2517,7 +2506,7 @@
       "make": "Mazda",
       "model": "CX-90 PHEV",
       "condition": "new",
-      "price": 63125.0,
+      "price": 62625.0,
       "price_currency": "CAD"
     },
     {
@@ -2759,7 +2748,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 38999.0,
+      "price": 35691.0,
       "price_currency": "CAD"
     },
     {
@@ -2770,7 +2759,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 42499.0,
+      "price": 40999.0,
       "price_currency": "CAD"
     },
     {

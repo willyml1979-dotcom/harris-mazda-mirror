@@ -7,7 +7,7 @@ Harris Mazda is a  dealership in Nanaimo. This site is an AI-readable mirror of 
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/harris-mazda-mirror/used/ and https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/ (about 258 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/harris-mazda-mirror/used/ and https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/ (about 257 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/harris-mazda-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/harris-mazda-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/harris-mazda-mirror/llms.txt
