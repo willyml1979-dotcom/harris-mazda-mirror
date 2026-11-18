@@ -1,6 +1,6 @@
 {
   "dealership": "Harris Mazda",
-  "generated_at": "2026-11-18T04:48:46",
+  "generated_at": "2026-11-18T13:25:46",
   "vehicle_count": 257,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -198,7 +198,7 @@
       "make": "Mazda",
       "model": "Mazda3",
       "condition": "used",
-      "price": 20488.0,
+      "price": 19888.0,
       "price_currency": "CAD"
     },
     {
@@ -209,7 +209,7 @@
       "make": "Toyota",
       "model": "C-HR",
       "condition": "used",
-      "price": 18303.0,
+      "price": 17488.0,
       "price_currency": "CAD"
     },
     {
@@ -242,7 +242,7 @@
       "make": "Cadillac",
       "model": "XT4",
       "condition": "used",
-      "price": 23999.0,
+      "price": 22790.0,
       "price_currency": "CAD"
     },
     {
@@ -253,7 +253,7 @@
       "make": "Nissan",
       "model": "Sentra",
       "condition": "used",
-      "price": 13999.0,
+      "price": 12999.0,
       "price_currency": "CAD"
     },
     {
@@ -264,7 +264,7 @@
       "make": "RAM",
       "model": "1500 Classic",
       "condition": "used",
-      "price": 30499.0,
+      "price": 29888.0,
       "price_currency": "CAD"
     },
     {
@@ -275,7 +275,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 22700.0,
+      "price": 21999.0,
       "price_currency": "CAD"
     },
     {
@@ -308,7 +308,7 @@
       "make": "Mazda",
       "model": "CX-3",
       "condition": "used",
-      "price": 22688.0,
+      "price": 21999.0,
       "price_currency": "CAD"
     },
     {
@@ -352,7 +352,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 34999.0,
+      "price": 29999.0,
       "price_currency": "CAD"
     },
     {
@@ -363,7 +363,7 @@
       "make": "Kia",
       "model": "Forte",
       "condition": "used",
-      "price": 18488.0,
+      "price": 18999.0,
       "price_currency": "CAD"
     },
     {
@@ -396,7 +396,7 @@
       "make": "Mazda",
       "model": "MX-5",
       "condition": "used",
-      "price": 28499.0,
+      "price": 27770.0,
       "price_currency": "CAD"
     },
     {
@@ -429,7 +429,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 48999.0,
+      "price": 47999.0,
       "price_currency": "CAD"
     },
     {
@@ -473,7 +473,7 @@
       "make": "Chevrolet",
       "model": "Malibu",
       "condition": "used",
-      "price": 20499.0,
+      "price": 18909.0,
       "price_currency": "CAD"
     },
     {
@@ -1934,7 +1934,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 41496.0,
+      "price": 41246.0,
       "price_currency": "CAD"
     },
     {
@@ -1945,7 +1945,7 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 41446.0,
+      "price": 41196.0,
       "price_currency": "CAD"
     },
     {
@@ -1956,29 +1956,29 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 41496.0,
+      "price": 41246.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda CX-5 GX",
+      "name": "2026 Mazda CX-5 GX AWD / LANE ASSIST / HEATED SEATS!!",
       "vin": "JM3KMAHA6T0239001",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/8e986d2a335c.html",
       "year": 2026,
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 38446.0,
+      "price": 38196.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda CX-5 GS",
+      "name": "2026 Mazda CX-5 GS AWD / HEATED SEATS / NAVIGATION!!",
       "vin": "JM3KMBHA6T0232121",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/b223de8438dc.html",
       "year": 2026,
       "make": "Mazda",
       "model": "CX-5",
       "condition": "new",
-      "price": 41596.0,
+      "price": 41346.0,
       "price_currency": "CAD"
     },
     {
@@ -2048,14 +2048,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Mazda CX-70 MHEV GT",
+      "name": "2026 Mazda CX-70 MHEV GT AWD / HEATED SEATS / HEATED WHEEL!!",
       "vin": "JM3KJDHD7T1218172",
       "url": "https://willyml1979-dotcom.github.io/harris-mazda-mirror/new/444a0009770b.html",
       "year": 2026,
       "make": "Mazda",
       "model": "CX-70 MHEV",
       "condition": "new",
-      "price": 55903.0,
+      "price": 55403.0,
       "price_currency": "CAD"
     },
     {
@@ -2352,7 +2352,7 @@
       "make": "Mazda",
       "model": "CX-90 PHEV",
       "condition": "new",
-      "price": 70925.0,
+      "price": 70425.0,
       "price_currency": "CAD"
     },
     {
@@ -2363,7 +2363,7 @@
       "make": "Mazda",
       "model": "CX-90 PHEV",
       "condition": "new",
-      "price": 62725.0,
+      "price": 62225.0,
       "price_currency": "CAD"
     },
     {
@@ -2374,7 +2374,7 @@
       "make": "Mazda",
       "model": "CX-90 PHEV",
       "condition": "new",
-      "price": 63125.0,
+      "price": 62625.0,
       "price_currency": "CAD"
     },
     {
@@ -2385,7 +2385,7 @@
       "make": "Mazda",
       "model": "CX-90 PHEV",
       "condition": "new",
-      "price": 70775.0,
+      "price": 70275.0,
       "price_currency": "CAD"
     },
     {
