@@ -1,6 +1,6 @@
 # Harris Mazda
 
- dealership in Nanaimo. AI-readable inventory mirror, about 274 vehicles.
+ dealership in Nanaimo. AI-readable inventory mirror, about 258 vehicles.
 
 - Official website: https://www.harrismazda.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/harris-mazda-mirror/used/
